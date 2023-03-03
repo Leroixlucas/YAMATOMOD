@@ -55,6 +55,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "demon_soul_fragment_ore"
+    },
+    {
+      "name": "TheYamatoRightclicked",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_yamato_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
