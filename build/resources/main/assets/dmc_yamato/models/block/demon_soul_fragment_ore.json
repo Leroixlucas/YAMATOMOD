@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dmc_yamato:blocks/demonsoulfragmentblock",
+    "particle": "dmc_yamato:blocks/demonsoulfragmentblock"
+  },
+  "render_type": "solid"
+}

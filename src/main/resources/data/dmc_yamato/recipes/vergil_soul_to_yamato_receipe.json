@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_sword"
+  },
+  "addition": {
+    "item": "dmc_yamato:vergil_soul"
+  },
+  "result": {
+    "item": "dmc_yamato:the_yamato"
+  }
+}

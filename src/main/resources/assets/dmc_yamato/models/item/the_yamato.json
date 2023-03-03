@@ -1,0 +1,7 @@
+{
+  "parent": "dmc_yamato:custom/yamato_model",
+  "textures": {
+    "2": "dmc_yamato:blocks/texture_yamato",
+    "particle": "dmc_yamato:items/texture_yamato"
+  }
+}

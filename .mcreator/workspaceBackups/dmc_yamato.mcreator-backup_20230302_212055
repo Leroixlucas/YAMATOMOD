@@ -1,0 +1,93 @@
+{
+  "mod_elements": [
+    {
+      "name": "Yamato",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yamato"
+    },
+    {
+      "name": "TheYamato",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_yamato"
+    },
+    {
+      "name": "VergilSoulToYamatoReceipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vergil_soul_to_yamato_receipe"
+    },
+    {
+      "name": "DemonSoulFragment",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_soul_fragment"
+    },
+    {
+      "name": "VergilSoul",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vergil_soul"
+    },
+    {
+      "name": "DemonSoulFragmentToVergilSoulRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_soul_fragment_to_vergil_soul_recipe"
+    },
+    {
+      "name": "DemonSoulFragmentOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demon_soul_fragment_ore"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.dmc_yamato.vergil_soul": "Vergil\u0027s Soul",
+      "item.dmc_yamato.yamato": "Yamato",
+      "item.dmc_yamato.the_yamato": "The Yamato",
+      "item.dmc_yamato.demon_soul_fragment": "Demon Soul Fragment",
+      "block.dmc_yamato.demon_soul_fragment_ore": "Demon Soul Fragment Ore"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "dmc_yamato",
+    "modName": "DMC YAMATO",
+    "version": "1.0.0",
+    "author": "User, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.dmcyamato",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

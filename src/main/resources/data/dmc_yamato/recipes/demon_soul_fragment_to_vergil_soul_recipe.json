@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "dmc_yamato:demon_soul_fragment"
+    },
+    "2": {
+      "item": "dmc_yamato:demon_soul_fragment"
+    },
+    "3": {
+      "item": "dmc_yamato:demon_soul_fragment"
+    },
+    "5": {
+      "item": "dmc_yamato:demon_soul_fragment"
+    },
+    "7": {
+      "item": "dmc_yamato:demon_soul_fragment"
+    }
+  },
+  "result": {
+    "item": "dmc_yamato:vergil_soul",
+    "count": 1
+  }
+}
