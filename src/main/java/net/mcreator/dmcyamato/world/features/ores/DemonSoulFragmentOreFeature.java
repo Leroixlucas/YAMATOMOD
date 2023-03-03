@@ -39,9 +39,9 @@ public class DemonSoulFragmentOreFeature extends OreFeature {
 								DmcYamatoModBlocks.DEMON_SOUL_FRAGMENT_ORE.get().defaultBlockState()),
 						OreConfiguration.target(new BlockStateMatchTest(Blocks.DEEPSLATE.defaultBlockState()),
 								DmcYamatoModBlocks.DEMON_SOUL_FRAGMENT_ORE.get().defaultBlockState())),
-						32));
+						1));
 		PLACED_FEATURE = PlacementUtils.register("dmc_yamato:demon_soul_fragment_ore", CONFIGURED_FEATURE,
-				List.of(CountPlacement.of(32), InSquarePlacement.spread(),
+				List.of(CountPlacement.of(1), InSquarePlacement.spread(),
 						HeightRangePlacement.uniform(VerticalAnchor.absolute(-64), VerticalAnchor.absolute(0)), BiomeFilter.biome()));
 		return FEATURE;
 	}
